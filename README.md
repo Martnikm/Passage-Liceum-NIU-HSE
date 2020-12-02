@@ -1,4 +1,4 @@
-# Заявка для IT проекта Мартьяновой Ники - "Passage Liceum NIU HSE"
+# Заявка для IT проекта Мартьяновой Ники - "Passage Lyceum NIU HSE"
 
 ## Група 10-И4
 
