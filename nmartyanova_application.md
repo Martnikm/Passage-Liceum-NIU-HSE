@@ -1,6 +1,6 @@
 # Заявка для IT проекта Мартьяновой Ники - "Passage Lyceum NIU HSE"
 
-## Група 10-И4
+## Група 10 - И - 4
 
 ## Электронная почта - Nikamartanova91028@gmail.com
 ## VK : https://vk.com/martnik
@@ -8,7 +8,7 @@
 
 #### [Название проекта]
 
-Passage lyceum NIU HSE
+"Passage lyceum NIU HSE"
 
 #### [Проблемное поле]
 
@@ -36,7 +36,7 @@ Passage lyceum NIU HSE
 
 #### [Инструменты разработки]
 
-Android Studio
+Java / Android Studio
 
 #### [Этапы разработки]
 
