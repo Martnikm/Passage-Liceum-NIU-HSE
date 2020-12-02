@@ -8,7 +8,7 @@
 
 #### [Название проекта]
 
-Passage liceum NIU HSE
+Passage lyceum NIU HSE
 
 #### [Проблемное поле]
 
