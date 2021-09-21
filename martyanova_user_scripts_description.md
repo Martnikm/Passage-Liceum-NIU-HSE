@@ -6,4 +6,4 @@
 ## VK : https://vk.com/martnik
 
 ## Изменения в сценарии
-* 
+
